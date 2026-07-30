@@ -4,13 +4,8 @@ A modern and responsive personal portfolio built with **React**, **React Router*
 
 ## Live Demo
 
-Coming Soon
+https://react-router-portfolio-beige.vercel.app/
 
-## Preview
-
-*(Add a screenshot of your homepage here after deployment.)*
-
----
 
 ## Features
 
@@ -62,13 +57,13 @@ A customizable random string generator built with React for generating secure pa
 Clone the repository
 
 ```bash
-git clone https://github.com/KAMZY13/YOUR_REPOSITORY.git
+git clone  https://github.com/KAMZY13/react-router-portfolio.git
 ```
 
 Navigate into the project
 
 ```bash
-cd YOUR_REPOSITORY
+cd react-router-portfolio
 ```
 
 Install dependencies
